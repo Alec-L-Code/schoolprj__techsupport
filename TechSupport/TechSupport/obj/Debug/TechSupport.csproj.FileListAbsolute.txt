@@ -1,0 +1,12 @@
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\bin\Debug\TechSupport.exe.config
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\bin\Debug\TechSupport.exe
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\bin\Debug\TechSupport.pdb
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.csprojAssemblyReference.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.Properties.Resources.resources
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.csproj.GenerateResource.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.csproj.CoreCompileInputs.cache
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.exe
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.pdb
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\bin\Debug\TechSupport.mdf
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\bin\Debug\TechSupport_log.ldf
+C:\Dev\C# Projects\Windows .NET Client Development\Lab 7\TechSupport\TechSupport\obj\Debug\TechSupport.Technician_Form.resources
